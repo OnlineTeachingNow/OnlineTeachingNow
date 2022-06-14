@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jackie.
-- 👀 I’m interested in Unity and C#.
-- 🌱 I’m currently learning Unity and C#.
-- 💞️ I’m open to opportunities, but not actively looking to collaborate on anything at this time. I'm still in the very early stages of learning Unity.
+- 👋 Hi, I'm Jackie.
+- 👀 I'm interested in Unity and C#.
+- 🌱 I'm currently learning Unity and C#.
+- 💞️ I'm open to networking, but am currently working on a big project.
 - 📫 You can reach me at onlineteachingnow.com.
 
 <!---
