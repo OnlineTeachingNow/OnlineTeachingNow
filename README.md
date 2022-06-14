@@ -1,8 +1,8 @@
 - 👋 Hi, I'm Jackie.
 - 👀 I'm interested in Unity and C#.
 - 🌱 I'm currently learning Unity and C#.
-- 💞️ I'm open to networking, but am currently working on a big project.
-- 📫 You can reach me at onlineteachingnow.com.
+- 💞️ I'm open to networking, but not actively seeking work/collaborations, as I am currently preoccupied by a big indie game dev project.
+- 📫 You can reach me at jackiebyrnecv.com.
 
 <!---
 OnlineTeachingNow/OnlineTeachingNow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
